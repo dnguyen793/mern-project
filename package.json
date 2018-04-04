@@ -1,0 +1,27 @@
+{
+  "name": "mern-project",
+  "version": "1.0.0",
+  "description": "mern stack project setup demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnguyen793/mern-project.git"
+  },
+  "author": "Duy Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dnguyen793/mern-project/issues"
+  },
+  "homepage": "https://github.com/dnguyen793/mern-project#readme",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  }
+}
